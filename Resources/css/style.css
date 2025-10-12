@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.first {
+    font-size: 50px;
+    color: white;
+    margin-top: 40px;
+}
+.second {
+    font-size: 16px;
+    color: aquamarine;
+    margin-top: 40px;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+.video {
+    display: block;
+    width: 100%;
+}
+.third {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.fourth {
+    font-size: 21px;
+    color: gray;
+}
+.camp-image {
+    margin-top: 20px;
+}
+.phone-image {
+    margin-top: 20px;
+}
+footer {
+    color: gray;
+    text-align: right;
+    font-size: 22px;
+}
